@@ -17,14 +17,16 @@
 ---
 
 ## 🛠️ Tech Stack
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)  
-![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)  
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
-![RabbitMQ](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg)  
-![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)  
-![Apache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 ---
 
