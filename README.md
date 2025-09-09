@@ -10,7 +10,7 @@
 - 📨 Using **RabbitMQ** / **Kafka** for message brokering and async systems.  
 - 🌐 Skill based DevOps (technical services for any servers).  
 - 🐳 Containerizing applications with **Docker**.  
-- ☎️ **IP Telephony & Real time commnucation**: Asterisk based Call Center Solutions  
+- ☎️ **IP Telephony & Real time commnucation**: Asterisk based Call Center Solutions.
 - 📍 Localtion in Urgench, Khorezm, Uzbekistan, Earth. 😀  
 - 🌱 Always learning new technologies and open to collaboration.  
 ---
