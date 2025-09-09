@@ -10,9 +10,9 @@
 - 📨 Using **RabbitMQ** / **Kafka** for message brokering and async systems.  
 - 🌐 Skill based DevOps (technical services for any servers).  
 - 🐳 Containerizing applications with **Docker**.  
+- ☎️ **IP Telephony & Real time commnucation**: Asterisk based Call Center Solutions  
 - 📍 Localtion in Urgench, Khorezm, Uzbekistan, Earth. 😀  
 - 🌱 Always learning new technologies and open to collaboration.  
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" alt="Asterisk" width="40" height="40"/>
 </p>
 
 
