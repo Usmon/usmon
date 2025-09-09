@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" alt="Asterisk" width="40" height="40"/>
+  <img src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" alt="Asterisk" width="70" height="40"/>
 </p>
 
 
