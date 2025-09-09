@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 💻 Focused on backend development with **PHP**/**Go**.  
-- 🐘 Experienced with **PostgreSQL** for database management.  
+- 🐘 Experienced with **MySQL**/**PostgreSQL** for database management.  
 - 📨 Using **RabbitMQ** / **Kafka** for message brokering and async systems.  
 - 🌐 Skill based DevOps (technical services for any servers).  
 - 🐳 Containerizing applications with **Docker**.  
@@ -36,7 +36,6 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmon&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmon&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmon&show_icons=true&theme=default) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmon&layout=compact&theme=default)
 
 
