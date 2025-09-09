@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Usmon!
+# 🌟 Hello, World! I'm Usmon 👋  
 
-### Backend Developer | Khorezm, Uzbekistan  
-[🌐 Personal Website](https://ovo.uz)
+### 💡 A passionate **Backend Developer** from Uzbekistan, building scalable systems with modern tools. 
 
 ---
 
