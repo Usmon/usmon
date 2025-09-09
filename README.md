@@ -40,7 +40,9 @@
 
 - Laravel  
 - Symfony  
-- CodeIgniter 
+- CodeIgniter
+- Node.js *(basic / partial experience)*  
+- Vue.js *(basic / partial experience)*   
 
 ---
 
