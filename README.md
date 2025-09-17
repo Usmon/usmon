@@ -41,6 +41,7 @@
 - Laravel  
 - Symfony  
 - CodeIgniter
+- Yii
 - Node.js *(basic / partial experience)*  
 - Vue.js *(basic / partial experience)*   
 
