@@ -49,7 +49,7 @@
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-usmonzaripov%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:usmonzaripov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@usmon-blue?style=for-the-badge&logo=telegram)](https://t.me/usmon)
+[![Telegram](https://img.shields.io/badge/Telegram-@usmonzaripov-blue?style=for-the-badge&logo=telegram)](https://t.me/usmonzaripov)
 
 ---
 
