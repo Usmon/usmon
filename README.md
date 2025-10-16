@@ -8,6 +8,7 @@
 - 💻 Focused on backend development with **PHP**/**Go**.  
 - 🐘 Experienced with **MySQL**/**PostgreSQL** for database management.  
 - 📨 Using **RabbitMQ** / **Kafka** for message brokering and async systems.  
+- ⚡ Confident with JavaScript for building dynamic and interactive applications.
 - 🌐 Skill based DevOps (technical services for any servers).  
 - 🐳 Containerizing applications with **Docker**.  
 - ☎️ **IP Telephony & Real time commnucation**: Asterisk based Call Center Solutions.
