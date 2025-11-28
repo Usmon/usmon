@@ -10,7 +10,8 @@
 - 📨 Using **RabbitMQ** / **Kafka** for message brokering and async systems.  
 - ⚡ Confident with JavaScript for building dynamic and interactive applications.
 - 🌐 Skill based DevOps (technical services for any servers).  
-- 🐳 Containerizing applications with **Docker**.  
+- 🐳 Containerizing applications with **Docker**.
+- ☸️ Kubernetes - Setting up and managing **production-grade clusters** (kubeadm & cloud, CI/CD)
 - ☎️ **IP Telephony & Real time commnucation**: Asterisk based Call Center Solutions.
 - 📍 Localtion in Urgench, Khorezm, Uzbekistan, Earth. 😀  
 - 🌱 Always learning new technologies and open to collaboration.  
